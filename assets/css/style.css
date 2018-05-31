@@ -1,0 +1,253 @@
+body
+{
+    background-color: lightgray;
+}
+
+.bigBox
+{
+    height: 60px;
+    background: white;
+}
+.box-set
+{
+    width: 1000px;
+    margin: auto;
+    height: 60px;
+    background: white;
+}
+.box
+{
+        position: absolute;   
+}
+
+.box-1
+{  
+    font-family: Arial, Helvetica, sans-serif;
+    top: -8px;
+    left: 114px;
+    width: 150px;
+    height: 40px;
+    padding: 20px 0px 0px 0px;
+   
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.box-2
+{
+
+      right: 75px;
+       top: 15px;
+    
+}
+
+
+a
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 50px 0px 0px;
+    color: #777777;
+    text-decoration: none;
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+   
+
+h1
+{
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    padding: 20px;
+
+}
+
+
+.AboutMe
+{
+    width: 960px;
+    height: 550px;
+    margin: auto;
+    
+    background-color: #ffffff;
+}
+.about
+{
+    width: 910px;
+    height: 500px;
+    color: #777777;
+    margin: auto;
+    
+}
+#underline
+{
+    width: 910px;
+    background-color: grey;
+    margin: auto;
+    height: 5px;
+    
+}
+img{
+    float: left
+}
+.AboutPortfolio
+{
+    width: 960px;
+    height: 750px;
+    margin: auto;
+    
+    background-color: #ffffff;
+}
+.portfolio
+{
+    width: 910px;
+    height: 700px;
+    color: #777777;
+    margin: auto;
+    
+}
+
+#hangman
+{
+    position: absolute;
+    top: 200px;
+    left: 305px;
+    
+}
+#hangmanText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: auto;
+    top: 128px;
+    width: 200px;
+    height: 40px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+#triviagame
+{
+    position: absolute;
+    top: 410px;
+    left: 305px;
+}
+#triviaGameText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 310px;
+    top: 540px;
+    width: 195px;
+    height: 48px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+#rockpaper
+{
+    position: absolute;
+    top: 625px;
+    left: 305px;
+    
+}
+#rockPaperText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 308px;
+    top: 758px;
+    width: 195px;
+    height: 40px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+#game
+{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+#gameText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 552px;
+    top: 333px;
+    width: 198px;
+    height: 40px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+#info
+{
+    position: absolute;
+    top: 410px;
+    left: 550px;
+}
+
+#infoText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 551px;
+    top: 539px;
+    width: 198px;
+    height: 44px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+    
+.Contact
+{
+   
+    width: 960px;
+    height: 500px;
+   margin-top: 100px;
+   margin-left: 11.5%;
+    
+    background-color: #ffffff;
+}
+.contactName
+{
+    
+    width: 910px;
+    height: 450px;
+    color: #777777;
+    margin: auto;
+   
+    
+}
+
+.btn-primary
+{  
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    height: 35px;
+    padding: 10px 0px 10px 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    
+    text-align: center;
+}
+
+
